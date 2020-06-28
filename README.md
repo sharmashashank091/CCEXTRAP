@@ -9,13 +9,10 @@ Script ini juga otomatis check Live | Die | Unknow. <br>
 - cd CCEXTRAP
 - php run.php
 
-# Petunjuk Pengguna
-- Bin : {Input Bin Seterah Kalian}
-- Check Status Valid : {Input salah satu angka, 1 or 0}<br>
-  ~ Angka 1 : Auto Check Status Live Or Die Or Unknow CC Generate<br>
-  ~ Angka 2 : Manual Check Status Live Or Die Or Unknow Via Website
-- Amount/Jumlah : {Input Bebas Jumlah Seterah Kalian}
+#  Video Tutorial :
 
+
+## https://youtu.be/xYSrlY8WMY0
 # Note
 - https://linktr.ee/doko1554
 
