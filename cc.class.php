@@ -128,7 +128,6 @@ class CC
             CURLOPT_HTTPHEADER      => $headers
         );
         curl_setopt_array($ch, $options);
-        $exec = curl_exec($ch);
         $status = json_decode($exec);
         switch ($status->error) {
             case '2':
